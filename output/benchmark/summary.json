@@ -1,0 +1,35 @@
+{
+  "total_graphs": 7981,
+  "labeled": 7981,
+  "errors": 0,
+  "by_source": {
+    "rome": 6000,
+    "synthetic": 1981
+  },
+  "by_class": {
+    "k-tree": 500,
+    "maximal-outerplanar": 500,
+    "random-planar": 500,
+    "series-parallel": 481
+  },
+  "kappa_stats": {
+    "count": 3262.0,
+    "mean": 2.8277130594727162,
+    "std": 2.502569960227624,
+    "min": 1.0,
+    "25%": 1.0,
+    "50%": 2.0,
+    "75%": 3.0,
+    "max": 12.0
+  },
+  "layers_stats": {
+    "count": 7981.0,
+    "mean": 5.521739130434782,
+    "std": 5.012709139267502,
+    "min": 2.0,
+    "25%": 3.0,
+    "50%": 3.0,
+    "75%": 10.0,
+    "max": 23.0
+  }
+}
