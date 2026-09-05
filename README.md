@@ -113,9 +113,6 @@ If you use this dataset or code, please cite:
 }
 ```
 
-## License
-
-[Specify your license here]
 
 ## Acknowledgments
 
